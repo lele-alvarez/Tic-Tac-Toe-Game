@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-Simple Tic Tac Toe game
+Simple text-based version of the Tic Tac Toe game.
 # Python Tic Tac Toe Game
 
 Welcome to the Python Tic Tac Toe game repository! This is a simple implementation of the classic Tic Tac Toe game designed to be played by two players. The game allows players to input their names, randomly determines who goes first, provides a quit option, displays fun ASCII art, and congratulates the winner at the end.  It also includes error handling to notify players of invalid inputs.
